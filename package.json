@@ -1,0 +1,11 @@
+{
+  "name": "Semana-OmniStack-11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bielb1b2/Semana-OmniStack-11.git",
+  "author": "bielb1b2 <gabriel.vitinho@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
